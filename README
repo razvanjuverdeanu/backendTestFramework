@@ -1,7 +1,7 @@
 * This automated framework it's done on Student API. For more details on how to setup the API
  please visit https://github.com/razvanjuverdeanu/StudentApi
 
-
+# The framework was developed with Python 3.8 in PyCharm IDE 
 
 Installed libraries:
  pytest
