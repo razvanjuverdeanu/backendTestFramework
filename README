@@ -1,0 +1,11 @@
+* This automated framework it's done on Student API. For more details on how to setup the API
+ please visit https://github.com/razvanjuverdeanu/StudentApi
+
+
+
+Installed libraries:
+ pytest
+ pytest-order
+ requests
+ beautifulsoup
+
